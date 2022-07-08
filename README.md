@@ -1,2 +1,2 @@
 # youtube-dlh
-Haskell client for youtube-dl
+Haskell client library for youtube-dl
